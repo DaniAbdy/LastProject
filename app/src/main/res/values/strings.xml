@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Last Android Project</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="mapy">Mapy</string>
+    <string name="log_in">Log in</string>
+    <string name="name">Name</string>
+    <string name="surmane">Surmane</string>
+    <string name="phone_number">Phone number</string>
+    <string name="data">Data</string>
+    <string name="address">Address</string>
+    <string name="other">Other</string>
+    <string name="admit">Admit</string>
+    <string name="next">Next</string>
+    <string name="contacts">Contacts</string>
+    <string name="location_information">Location Information</string>
+    <string name="ecology">Ecology</string>
+    <string name="civic_engagement">Civic Engagement</string>
+</resources>
